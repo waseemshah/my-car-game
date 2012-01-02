@@ -1,6 +1,11 @@
 Camera = {}
 Camera_mt = { __index = Camera }
 
+
+
+
+
+
 local abs = math.abs
 local floor = math.floor
 
